@@ -1,4 +1,4 @@
-Gsynergy interview test application for thr Recat JS Developer
+Gsynergy interview test application for the Recat JS Developer
 
 # Libraries used
 1. Material UI
