@@ -7,7 +7,7 @@ Gsynergy interview test application for the Recat JS Developer
 4. React-Lazyload
 
 ## Description
-This is a simple movie serach application with the infinten scroll and integrated the onscroll api calling to update the data, the search is used to get tyhe particular data based on the user input.
+This is a simple movie search application with the infinite scroll, used the onscroll api calling to update the data when ever reaches the bottom of the page, the search is used to get the particular data based on the user input.
 
 # Getting Started with Create React App
 
