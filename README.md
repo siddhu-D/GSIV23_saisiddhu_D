@@ -1,3 +1,14 @@
+Gsynergy interview test application for thr Recat JS Developer
+
+# Libraries used
+1. Material UI
+2. Redux
+3. React-Router
+4. React-Lazyload
+
+## Description
+This is a simple movie serach application with the infinten scroll and integrated the onscroll api calling to update the data, the search is used to get tyhe particular data based on the user input.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
